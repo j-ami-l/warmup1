@@ -50,5 +50,17 @@ a{
 
 .coml{
     height: 30px;
-    margin-left: 50px;
+    width: auto;
+    display: block;
+}
+.commundes > div {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+}
+.commundes > div > p {
+    width: 70%;
+    font-size: small;
+    color: #4D4D4D;
+    text-align: center;
 }
