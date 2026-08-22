@@ -12,6 +12,10 @@ ul{
     flex-direction: row;
 }
 
+h1,h2,h3{
+    margin: 0;
+}
+
 a{
     text-decoration: none;
     color: #4D4D4D;
@@ -42,4 +46,9 @@ a{
     border-radius: 3px;
     font-size: 12px;
     border: none;
+}
+
+.coml{
+    height: 30px;
+    margin-left: 50px;
 }
